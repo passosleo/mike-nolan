@@ -8,6 +8,7 @@ const Layout = ({
   setCurrentScreen,
   totalScreens,
 }) => {
+  console.log(currentScreen)
   const nextScreen = (count) => {
     return (
       currentScreen !== totalScreens && setCurrentScreen(currentScreen + count)
@@ -23,11 +24,15 @@ const Layout = ({
       <div className="layout-footer">
         {history[currentScreen].hasOptions ? (
           <div>
-            {/* se clicar na opção 1 pega o dialogo alternativo (segue na ordem certa, tela + 1) */}
-
-            <button onClick={() => nextScreen(1)}>Option 1</button>
-            {/* se clicar na opção 2 pula o dialogo alternativo, informar na função abaixo quantas telas deve pular (dica: da pra fazer um switch, e pra cada tela que tiver escolha pula uma quantidade X, ex.: se tiver na tela 3, essa tela tem escolha e o dialogo alternativo dela tem 3 telas, entao pula 3 telas) */}
-            <button onClick={() => nextScreen(3)}>Option 2</button>
+            <button onClick={() => nextScreen(1)}>{history[currentScreen].option1}</button>
+            <button onClick={() => {
+              switch (currentScreen) {
+                case 9: return  nextScreen(8)
+                case 19: return nextScreen(4)
+                case 19: return nextScreen(4)
+              }
+            
+            }}>{history[currentScreen].option2}</button>
           </div>
         ) : currentScreen !== totalScreens ? (
           <button onClick={() => nextScreen(1)}>Next</button>
