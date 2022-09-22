@@ -18,7 +18,7 @@ const Layout = ({
   return (
     <div className="layout-body">
       <div className="layout-header">
-        <h1>Mike Nolan - Indo Pescar</h1>
+        <h1>Final de semana do Mike</h1>
       </div>
       <div className="layout-main">{children}</div>
       <div className="layout-footer">
@@ -27,12 +27,15 @@ const Layout = ({
             <button onClick={() => nextScreen(1)}>{history[currentScreen].option1}</button>
             <button onClick={() => {
               switch (currentScreen) {
-                case 9: return  nextScreen(8)
-                case 19: return nextScreen(4)
-                case 19: return nextScreen(4)
+                case 25:
+                return nextScreen(11);
+                case 38: 
+                return nextScreen(6);
+                case 49: 
+                return nextScreen(5);
               }
             
-            }}>{history[currentScreen].option2}</button>
+               }}>{history[currentScreen].option2}</button>
           </div>
         ) : currentScreen !== totalScreens ? (
           <button onClick={() => nextScreen(1)}>Next</button>
