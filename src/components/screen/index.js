@@ -2,15 +2,10 @@ import React from "react";
 import { history } from "../../data";
 import "./styles.css";
 
-const Screen = ({
-  children,
-  currentScreen,
-  setCurrentScreen,
-  totalScreens,
-}) => {
+const Screen = ({ currentScreen }) => {
   return (
-    <div>
-      <img src={history[currentScreen].image} width="600px" />
+    <div className="screen">
+      <img src={history[currentScreen].image} height="400px" alt="cartoon" />
       <p>{history[currentScreen].description}</p>
     </div>
   );
