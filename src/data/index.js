@@ -3,7 +3,8 @@ export const history = [
     id: 0,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715187/kick_tqiisd.png",
-    description: "A galera está jogando um futebol",
+    description:
+      "É sábado final de tarde o sol está se pondo e o clima está agradável, Mike e seus amigos decidiram se reunir para bater uma bola, fazer um churrasco e tomar algumas cervejas.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -12,7 +13,8 @@ export const history = [
     id: 1,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715052/bbq_aczvx7.png",
-    description: "Estão todos lá, Donnie, Sassy, Quinton, Dave e Mike Nolan",
+    description:
+      "Todos os amigos de Mike estão presentes, Donnie, Sassy, Quinton e Dave.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -21,7 +23,8 @@ export const history = [
     id: 2,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715053/ball_ojmvbo.png",
-    description: "Eles se divertem jogando bola",
+    description:
+      "Enquanto alguns jogam bola, outros se arriscam de skate no quarter pipe do final da rua.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -30,7 +33,8 @@ export const history = [
     id: 3,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715053/dave_hatrg2.png",
-    description: "Assam uma carne",
+    description:
+      "A carne é colocada ao fogo e como de costume todos se reunem perto da churrasqueira para conversar.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -39,7 +43,8 @@ export const history = [
     id: 4,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626624/ceva1_oub4qg.png",
-    description: "Bebem uma ceva,",
+    description:
+      "Conforme o tempo passa, a conversa vai ficando mais animada e as risadas mais altas, uma cerveja após a outra e eis que Mike começa a desafiar seus amigos.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -49,7 +54,7 @@ export const history = [
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715054/mike_llc9dn.png",
     description:
-      "E aí começam a ver quem tem coragem de andar no quarter pipe de skate",
+      "Mike faz uma aposta para ver quem tem coragem de fazer uma manobra no quarter pipe.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -58,7 +63,8 @@ export const history = [
     id: 6,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715053/davr_fntuis.png",
-    description: "Dave diz que vai,",
+    description:
+      "Dave, que gostava de andar de skate nas antigas, diz que vai em um tom confiante. Todos duvidam pois ele já havia bebido muito.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -67,7 +73,8 @@ export const history = [
     id: 7,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715054/sk82_odlyzp.png",
-    description: "Ele é o primeiro,",
+    description:
+      "Ele vai primeiro e tudo sai como planejado, deixando a galera sem graça.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -76,7 +83,8 @@ export const history = [
     id: 8,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715054/nah_qcgkxn.png",
-    description: "Todos duvidam do Donnie, que não quer ir porque está cansado",
+    description:
+      "Todos resolvem desafiar o Donnie, que nunca havia andado de skate e era o menos experiente. Donnie fica o tempo todo dando desculpas de que não quer ir porque está cansado.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -85,7 +93,8 @@ export const history = [
     id: 9,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715054/sk83_cxa88r.png",
-    description: "Ele acaba indo",
+    description:
+      "Depois de muita insistência, Donnie aceita o desafio e vai em direção ao quarter pipe.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -94,7 +103,8 @@ export const history = [
     id: 10,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715053/fress_tni826.png",
-    description: "Todos se impressionam",
+    description:
+      "Donnie lança-se ao ar e faz uma manobra inacreditavel deixando todos perplexos.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -103,7 +113,7 @@ export const history = [
     id: 11,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715053/aaah_oo426o.png",
-    description: "Inclusive ele",
+    description: "Inclusive ele...",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -112,7 +122,7 @@ export const history = [
     id: 12,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715052/bbq_aczvx7.png",
-    description: "Eles continuam conversando,",
+    description: "A farra continua e todos já estão bem animados.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -121,7 +131,7 @@ export const history = [
     id: 13,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715054/where_bj9c9j.png",
-    description: "Dave chama e diz que o churras está pronto",
+    description: "Dave chama todos avisando que a carne está pronta.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -131,7 +141,7 @@ export const history = [
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715054/mike_llc9dn.png",
     description:
-      "Mike chega primeiro e convida Dave para ir pescar, e Dave aceita",
+      "Mike chega primeiro para comer puxa assunto com o Dave, convidando-o para ir pescar no dia seguinte. Dave aceita e ambos combinam de se encontrar.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -140,7 +150,8 @@ export const history = [
     id: 15,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663715053/eating_xwkxdz.png",
-    description: "A galera come se despede e todos vão embora,",
+    description:
+      "A galera termina de comer e como ninguêm mais se conhece pois já haviam bebido 18 fardos de cerveja em apenas 3 horas, cada um vai para sua casa.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -150,7 +161,8 @@ export const history = [
     id: 16,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626624/ffr_cag1sf.png",
-    description: "No final de semana Mike nolan e dave saem para pescar",
+    description:
+      "No dia seguinte, depois de se recuperar da bebedeira, Mike e Dave se encontram conforme o combinado e saem para pescar.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -159,7 +171,8 @@ export const history = [
     id: 17,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626625/noway_jpuzdj.png",
-    description: "Mike já reclama que o Dave estava atrasado em 52 minutos",
+    description:
+      "Mike indignado, de cara já sai resmungando que Dave estava atrasado em 52 minutos.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -169,7 +182,7 @@ export const history = [
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626625/scarr_fgvmx1.png",
     description:
-      "Dave diz que ele está no horario correto, só que o fuso horario dele é diferente",
+      "Dave diz que ele está no horario correto, só que o fuso horario dele é diferente.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -178,7 +191,8 @@ export const history = [
     id: 19,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626624/indo_ersnjy.png",
-    description: "Dave e Mike saem de barco e vão em direção a uma ponte",
+    description:
+      "Os dois estão de boa no barco, quando Mike vê uma ponte, e como de costume, desafia ambos a pularem.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -187,7 +201,8 @@ export const history = [
     id: 20,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626624/ponte_kr76nc.png",
-    description: "os dois param o barco sobem na ponte e pulam na agua",
+    description:
+      "Eles param o barco sobem na ponte. Ambos já anestesiados, pulam sem nem ao menos olhar para baixo.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -196,7 +211,8 @@ export const history = [
     id: 21,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626624/jump1_c6whus.png",
-    description: "Dave pula da ponte primeiro, em seguida Mike pula",
+    description:
+      "Dave pula da ponte primeiro, em seguida Mike pula, mas como bêbado tem sorte, nada de errado acontece.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -205,7 +221,7 @@ export const history = [
     id: 22,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626624/ceva1_oub4qg.png",
-    description: "os dois começam a beber",
+    description: "Os dois voltam para o barco e começam a beber novamente.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -215,7 +231,7 @@ export const history = [
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626626/there_oadt09.png",
     description:
-      "ambos começam a conversar, e em pouco tempo começam as histórias",
+      "Ambos começam a conversar, e em pouco tempo começam as histórias de pescador.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -225,7 +241,7 @@ export const history = [
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626625/scarr_fgvmx1.png",
     description:
-      "Dave diz que perto dali existem monstros, e que eles podem matar todos eles",
+      "Dave diz que perto dali existem monstros horríveis, e que eles podem matar todos eles.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -244,8 +260,9 @@ export const history = [
   {
     id: 26,
     image:
-      "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663716615/download_mhgake.jpg",
-    description: "Mike não acredita e Dave o leva até a ilha os monstros estão",
+      "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663719225/jump_h9jwwq.png",
+    description:
+      "Mike não acredita e Dave resolve guiar o barco até a ilha dos supostos monstros.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -255,7 +272,8 @@ export const history = [
     id: 27,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663716615/kill_w1uuvl.png",
-    description: "Mike prepara sua espingarda",
+    description:
+      "Embora duvide de Dave, Mike resolve sair armado, apenas por precaução.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -264,7 +282,7 @@ export const history = [
     id: 28,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663716614/chooma1_lofwvz.png",
-    description: "Depois de algum tempo, aparece um monstro",
+    description: "Depois de algum tempo andando pela ilha, aparece um monstro.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -273,7 +291,7 @@ export const history = [
     id: 29,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663716616/punch_smo0x2.png",
-    description: "Que dá um soco no Dave",
+    description: "Que dá um soco no Dave...",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -282,7 +300,8 @@ export const history = [
     id: 30,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663716615/hand_y16bvm.png",
-    description: "Dave agarra a cara do monstro igual ao Rambo",
+    description:
+      "Mike em um reflexo rápido, gruda na cara do monstro e arranca o seu rosto como se fosse o Rambo.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -291,7 +310,8 @@ export const history = [
     id: 31,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663716615/face_qr5t2b.png",
-    description: "e arranca ela",
+    description:
+      "Causando espanto em Dave, que não acreditava que Mike fosse capaz de fazer isso.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -300,7 +320,7 @@ export const history = [
     id: 32,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663716614/chooma3_eubrlp.png",
-    description: "Outro monstro aparece, dessa vez Mike o vê",
+    description: "Outro monstro aparece, dessa vez Mike o vê.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -309,7 +329,7 @@ export const history = [
     id: 33,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663716615/dead_av2xuy.png",
-    description: "E destrói ele com sua espingarda",
+    description: "E destrói ele com sua espingarda.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -319,7 +339,7 @@ export const history = [
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626625/scarr_fgvmx1.png",
     description:
-      "ambos decidem voltar a pescar tranquilamente, depois de Dave ter mostrado os monstros a Mike",
+      "Dave fica aterrorizado e diz que foi uma péssima idéia ter vindo até a ilha. Ambos voltam correndo para o barco e se afastam. Dave se borrando de medo diz que nunca mais quer voltar para lá.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -330,7 +350,8 @@ export const history = [
     id: 35,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663717957/laugh_rxsp9m.png",
-    description: "Mike ri da cara de Dave e eles continuam de boas",
+    description:
+      "Mike ri da cara de Dave e da sua ideia imbecil e eles continuam a pescaria.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -340,7 +361,8 @@ export const history = [
     id: 36,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626625/scarr_fgvmx1.png",
-    description: "Dave pergunta se Mike quer comer cogumelos",
+    description:
+      "O tempo passa e eles navegam de um lado para o outro, quando de repente Dave diz que vê algo na costa. Eles se aproximam e descobrem que são cogumelos. Dave então desafia Mike a comer um.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -349,7 +371,8 @@ export const history = [
     id: 37,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663717958/mike_xanzha.png",
-    description: "Mike fica sem saber o que fazer",
+    description:
+      "Mike, que adora desafiar os seus amigos fica sem saber o que fazer, pois não quer parecer um covarde.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -368,7 +391,7 @@ export const history = [
     id: 39,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663717957/kkk_k4yymw.png",
-    description: "eles comem os cogumelos e embarcam numa outra dimensão",
+    description: "Eles comem os cogumelos e embarcam em outra dimensão.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -377,7 +400,8 @@ export const history = [
     id: 40,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663717958/noiicee_zbcwqn.png",
-    description: "Mike se imagina deitado no chão",
+    description:
+      "Mike se imagina deitado no chão, em uma grama verde e fofa, sem formigas ou insetos.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -386,7 +410,8 @@ export const history = [
     id: 41,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663717957/enjoy_qgqzjc.png",
-    description: "e depois ele se vê aproveitando o por do sol",
+    description:
+      "O horizonte é tomado por um sol escaldante e tudo fica muito colorido.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -395,7 +420,8 @@ export const history = [
     id: 42,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663717957/insan_qt1bp4.png",
-    description: "Mike e Dave se desconectam da realidade por um breve momento",
+    description:
+      "Mike e Dave se desconectam da realidade e embarcam em uma viagem longa e duradoura, como se houvessem passado anos.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -405,7 +431,7 @@ export const history = [
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626624/fishing1_gstzyp.png",
     description:
-      "logo eles percebem que ainda só passaram duas horas desde que saíram para pescar",
+      "De repente, tudo volta ao normal e eles são dão conta que se passaram apenas 30 minutos e que ainda estão no barco olhando um para a cara do outro enquanto babam. Dave sugere comer mais cogumelos.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -416,7 +442,7 @@ export const history = [
     id: 44,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663717957/laugh_rxsp9m.png",
-    description: "Mike recusa e eles continuam bebendo",
+    description: "Mike recusa e eles continuam bebendo.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -426,7 +452,8 @@ export const history = [
     id: 45,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626626/there_oadt09.png",
-    description: "Dave lembra que mais a frente tem uma ponte muito mais alta",
+    description:
+      "Dave, insatisfeito com os desafios lembra que logo a frente tem uma ponte muito mais alta.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -435,7 +462,8 @@ export const history = [
     id: 46,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626625/noway_jpuzdj.png",
-    description: "Mike diz que já pulou, mas o dave não acredita",
+    description:
+      "Mike já imaginando que seria desafiado, tenta contornar o assunto dizendo que já pulou, mas o Dave não acredita.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -444,7 +472,7 @@ export const history = [
     id: 47,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663719225/jump_h9jwwq.png",
-    description: "eles vão até lá",
+    description: "Eles decidem então ir até lá.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -453,7 +481,7 @@ export const history = [
     id: 48,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626625/r_zamajd.png",
-    description: "Dave duvida que Mike pula",
+    description: "Como esperado, Dave desafia o Mike a pular da ponte.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -466,14 +494,15 @@ export const history = [
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626625/jump2_bmhitm.png",
     description: null,
     hasOptions: true,
-    option1: "Desafiar o Mike a pular",
+    option1: "Pular da ponte",
     option2: "Fugir do perigo",
   },
   {
     id: 50,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663718992/jumpr_glk31h.png",
-    description: "Mike pula, e faz uma aposta com o dave para ele pular também",
+    description:
+      "Mike pula, e faz uma aposta com o Dave para ele pular também.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -482,7 +511,7 @@ export const history = [
     id: 51,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663719064/scarr_fgvmx1_cuekj2.png",
-    description: "Dave decide não pular porque ja está bebado",
+    description: "Dave decide não pular porque ja estava muito bêbado.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -491,7 +520,8 @@ export const history = [
     id: 52,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663717958/mike_xanzha.png",
-    description: "Mike fica de cara porque foi enganado",
+    description:
+      "Mike fica de puto, pois percebe que foi enganado, mas não tem como voltar atrás.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -500,7 +530,7 @@ export const history = [
     id: 53,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626624/fishing1_gstzyp.png",
-    description: "Dave pede para voltar onde estavam",
+    description: "Então voltam para o barco para terminar as bebidas.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -511,7 +541,7 @@ export const history = [
     id: 54,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663626624/ffr_cag1sf.png",
-    description: "eles voltam pra costa",
+    description: "Mike diz que já está tarde e sugere que eles vão embora.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -520,7 +550,8 @@ export const history = [
     id: 55,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663720074/pub_p6grhr.png",
-    description: "E decidem ir para o bar",
+    description:
+      "A noite entra e eles acabam se encontrando novamente no bar da cidade, dão muita risada sobre os acontecimentos do dia.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -529,7 +560,7 @@ export const history = [
     id: 56,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663720074/Capturar_lpzfzh.png",
-    description: "vão fumar um cigarrinho",
+    description: "Saem para fumar um cigarrinho e observar as estrelas.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -538,7 +569,7 @@ export const history = [
     id: 57,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663720073/star_x8chpz.png",
-    description: "de repente eles vêem uma luz no céu se mechendo",
+    description: "De repente eles vêem uma luz no céu se mechendo.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -547,7 +578,7 @@ export const history = [
     id: 58,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663720073/shiny_qbfo99.png",
-    description: "que brilha muito",
+    description: "Que brilha muito... Talvez sejam alienigenas...",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -556,7 +587,7 @@ export const history = [
     id: 59,
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663720072/aliensr_rreyvg.png",
-    description: "talvez são alienigenas",
+    description: "Ou talvez sejam apenas os alucinógenos que eles tomaram.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -566,7 +597,7 @@ export const history = [
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663720073/pub6_ioweip.png",
     description:
-      "eles voltam pro bar sem dar muita atenção a estrela, e encontram uns amigos",
+      "Como a segunda opção é o mais provável, eles voltam pro bar sem dar muita atenção a estrela, onde acabam encontrando alguns amigos.",
     hasOptions: false,
     option1: null,
     option2: null,
@@ -576,7 +607,7 @@ export const history = [
     image:
       "https://res.cloudinary.com/dxvenxl1w/image/upload/v1663720073/bye_txjxeo.png",
     description:
-      "lá eles decidem marcar outro dia para sair de novo e se despedem",
+      "Combinam de sair outro dia para pescar, e se despedem, indo para suas casas.",
     hasOptions: false,
     option1: null,
     option2: null,

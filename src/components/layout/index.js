@@ -33,7 +33,7 @@ const Layout = ({
                   case 25:
                     return nextScreen(11);
                   case 38:
-                    return nextScreen(7);
+                    return nextScreen(6);
                   case 49:
                     return nextScreen(5);
                   default:
